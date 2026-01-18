@@ -1,0 +1,128 @@
+body {
+    font-family: sans-serif;
+    background-color: grey;
+}
+
+header {
+    background-color:orange;
+    padding:10px;
+    color:navy;
+}
+
+header img { 
+    padding-right:8px;
+}
+
+header a { 
+text-decoration:none;
+color:red;
+background-color:whitesmoke;
+padding:8px;
+margin-left:8px;
+}
+
+nav a {
+    text-decoration: none;
+    color:black;
+    background-color:blueviolet;
+    padding:10px;
+    border-radius:10px;
+    border: 3px solid red;
+}
+
+nav {
+    margin-top:15px;
+}
+
+main h1 {
+    text-align:center;
+    color:burlywood;
+    border:3px dashed brown;
+    border-radius: 5px;
+    background-color: aquamarine;
+    padding-top:8px;
+    padding-bottom:8px;
+}
+
+main h2 {
+    color:maaroon;
+    background-color:navajowhite;
+    border-radius:25px;
+    border:3px dotted gold;
+    padding-top:8px;
+    padding-bottom:8px;
+    text-align:center;
+}
+
+.product {
+    color:blueviolet;
+    background-color:goldenrod;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    margin-bottom:8px;
+    border:3px solid peru;
+    border-radius: 25px;
+}
+
+.seasonal {
+    color:royalblue;
+    background-color:salmon;
+    padding: 15px;
+    margin-bottom:10px;
+}
+
+.seasonal i {
+    color:royalblue;
+}
+
+.contact {
+    text-decoration:none;
+    color:blueviolet;
+    background-color:honeydew;
+    padding:5px 10px;
+    border-radius:15px;
+    border:1px dotted rosybrown;
+}
+
+.buy {
+    background-color: bisque;
+    color: cadetblue;
+    padding: 15px;
+}
+
+.wholesale {
+    background-color:beige;
+    color:cyan;
+    padding:15px;
+    border-bottom: 3px dashed dotted blanchedalmond;
+}
+
+.about {
+    background-color:antiquewhite;
+    color:blueviolet;
+    padding:15px;
+}
+
+.top a {
+    backgorund-color:burlywood;
+    color:royalblue;
+    padding:8px 10px;
+    border-radius:15px;
+    border:1px solid olive;
+    text-decoration:none;
+    width:90px;
+}
+
+footer {
+    background-color:royalblue;
+    padidng:15px;
+}
+
+footer p{
+    backgroun-color:rosybrown;
+    color:yellowgreen;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:8px;
+}
